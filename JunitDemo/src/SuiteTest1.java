@@ -7,7 +7,8 @@ import org.junit.Test;
 
 public class SuiteTest1 {
 
-	public String message = "Raj";							
+	public String message = "Raj";	
+	
 
     JunitMessage junitMessage = new JunitMessage(message);							
 

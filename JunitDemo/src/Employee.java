@@ -9,6 +9,7 @@ public Employee(int empId, String name, int salary) {
 	this.name = name;
 	this.salary = salary;
 }
+
 public int getEmpId() {
 	return empId;
 }

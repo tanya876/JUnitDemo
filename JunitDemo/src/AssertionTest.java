@@ -8,6 +8,7 @@ public class AssertionTest {
 	 @Test
 	 public void testAssert(){					
  		
+		 
 	        //Variable declaration		
 	        String string1="Junit";					
 	        String string2="Junit";					

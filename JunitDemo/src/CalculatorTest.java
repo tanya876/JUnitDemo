@@ -8,6 +8,7 @@ public class CalculatorTest {
    
 	private Calculator calc;
 	
+	
 	@Before
 	public void setup() throws Exception{
 		calc=new Calculator();

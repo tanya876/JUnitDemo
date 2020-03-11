@@ -11,6 +11,7 @@ public class SuiteTest2 {
 	@Test		
     public void createAndSetName() {					
       				
+		
         String actual= "Y";
         String expected = "Y";					
         				

@@ -5,6 +5,7 @@ import org.junit.Test;
 
 public class MyMathTest {
 	MyMath mymath=new MyMath();
+	
     
 	@Test
 	public void sum_with3numbers(){

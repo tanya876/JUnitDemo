@@ -9,6 +9,7 @@ public class EmployeeTest {
 		String expectedName="raj";
 		assertEquals(expectedName,Employee.getEmpNameWithHighSalary());
 	}
+	
 
 	@Test
 	public void myObjectEqualsTest() {

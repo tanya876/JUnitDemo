@@ -20,6 +20,7 @@ public class AnnotationsExample {
 	        System.out.println("Using @BeforeClass , executed before all test "
 	        		+ "cases ");					
 	    }		
+	    
 
 	    @Before		
 	    public void m2() {					

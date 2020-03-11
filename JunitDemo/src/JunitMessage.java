@@ -5,6 +5,7 @@ public class JunitMessage {
 	{
 		m=msg;
 	}
+	
 String printMessage()
 {
 	return m;
