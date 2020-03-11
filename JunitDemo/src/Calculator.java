@@ -19,4 +19,13 @@ public class Calculator {
 		 return a/b;
 		 
 	 }
+	public static void main(String[] args)
+	{
+		Calculator cal=new Calculator();
+		double c=cal.add(2, 10);
+		double d=cal.multiple(10,2);
+		System.out.println(c);
+		System.out.println(d);
+	
+	}
 }
